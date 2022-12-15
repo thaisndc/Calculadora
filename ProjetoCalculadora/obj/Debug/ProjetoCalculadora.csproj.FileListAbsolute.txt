@@ -1,0 +1,8 @@
+C:\Projetos\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Projetos\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Projetos\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Projetos\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.AssemblyReference.cache
+C:\Projetos\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Projetos\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
